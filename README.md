@@ -22,7 +22,6 @@ Here is what I found:
     * The fix: Fixed this by using CSS variables and creating CSS classes targeted via the tag ID to alter the color.
 * Change the quantity of stops - The original code was locked in at 7 stops including the end stops. A hard-coded calculation was based upon the use of only 7 stops.
     * The fix: Rewrote the calculation so that it would utilize the `max` attribute of the `<input>` element to determine the percentage of space taken up by each segment.
-* 
 
 ## The Results
 
