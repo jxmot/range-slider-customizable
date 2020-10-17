@@ -4,6 +4,8 @@ This repository contains a demonstration of one method for creating a *range sli
 
 The unique characteristic of this range slider is that it has fixed *stops* along the track of the range. For my application I needed that instead of a smooth moving slider. The application required that each *stop* provided a unique value.
 
+**NOTE:** The Edge browser **will not work**. I'm not sure if it's a problem with the CSS or Edge. My guess it's a little of both. If I can get it working in Edge I'll post an update.
+
 ## At first
 
 The CodePen demonstration *worked* but it was only good as a *proof of concept*. It showed the the basics of how a range slider with stops would work. The author obviously spent time on it, the CSS alone is little tricky.
