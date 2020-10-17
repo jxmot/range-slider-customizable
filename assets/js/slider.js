@@ -37,6 +37,7 @@ function slider(s_id) {
 // when a stop is selected. Not sure why, requires further investigation.
 //
 //        var prefs = ['webkit-slider-runnable-track', 'moz-range-track', 'ms-track'];
+//        var prefs = ['ms-track'];
 //        for (var i = 0; i < prefs.length; i++) {
 //            style += range+' input::-' + prefs[i] + ' {background: linear-gradient(to right, var(--slider-active-color) 0%, var(--slider-active-color) ' + seltrack + '%, '+$(range).parent().css('background-color')+' ' + seltrack + '%, '+$(range).parent().css('background-color')+' 100%);}\n';
 //        }
