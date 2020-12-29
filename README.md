@@ -142,10 +142,5 @@ Open `index.html` directly in your browser. And have fun!
 * Try to get other shapes to indicate stops, squares, triangles, etc. And/or Font Awesome icons would be nice touch.
 * See if it's possible to change the color of the selected track as stops are chosen.
 
-
-
-
-
-
-
-
+---
+<img src="http://webexperiment.info/extcounter/mdcount.php?id=range-slider-customizable">
